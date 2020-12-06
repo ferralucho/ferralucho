@@ -2,7 +2,7 @@
 
 I am Luciano Ferrari. I am a software developer from Córdoba, Argentina. I currently work at @MercadoLibre https://www.mercadolibre.com/ . My objetctive is to build great software experiences. Find out more about me and feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-luciano-ferrari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciano-ferrari/)](https://www.linkedin.com/in/luciano-ferrari/)
+[![Linkedin Badge](https://img.shields.io/badge/-lucianoferrari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciano-ferrari/)](https://www.linkedin.com/in/luciano-ferrari/)
 [![Gmail Badge](https://img.shields.io/badge/-lucianodarioferrari@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucianodarioferrari@gmail.com)](mailto:lucianodarioferrari@gmail.com)
 
 ## ⚡ Technologies
