@@ -1,4 +1,4 @@
-## Fancy seeing you here!
+## Welcome to my github!
 
 I am Luciano Ferrari. I am a software developer from Córdoba, Argentina. I currently work at @MercadoLibre https://www.mercadolibre.com/ . My objective is to build great software experiences. Find out more about me and feel free to connect with me here:
 
