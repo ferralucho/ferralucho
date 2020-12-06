@@ -7,7 +7,7 @@ I am Luciano Ferrari. I am a software developer from Córdoba, Argentina. I curr
 
 ## ⚡ Technologies
 
-![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=golang)
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
