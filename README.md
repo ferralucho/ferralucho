@@ -1,6 +1,6 @@
 ## Welcome to my github!
 
-I am Luciano Ferrari. I am a software developer from Córdoba, Argentina. I currently work at Mercado Libre https://www.mercadolibre.com/ 
+I am Luciano Ferrari. I am a software developer from Córdoba, Argentina. I currently work at Flo Technologies.
 My objective is to build great software experiences. Find out more about me and feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-lucianoferrari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciano-ferrari/)](https://www.linkedin.com/in/luciano-ferrari/)
