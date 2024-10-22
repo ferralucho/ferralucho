@@ -1,6 +1,6 @@
 ## Welcome to my github!
 
-My name is Luciano Ferrari, a software developer from Córdoba, Argentina. I currently work with Go, Node, React, Javascript, Typescript, AWS, Docker.
+My name is Luciano Ferrari, a software developer from Córdoba, Argentina. I currently work with Go, Node, React, Javascript, Typescript, AWS, Docker, Kubernetes.
 My objective is to build great software experiences. Find out more about me and feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-lucianoferrari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciano-ferrari/)](https://www.linkedin.com/in/luciano-ferrari/)
